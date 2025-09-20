@@ -135,11 +135,3 @@ Threshold: 0.764
 * **GRU and LSTM are highly effective**, achieving \~99% accuracy.
 * RNN performs poorly compared to GRU/LSTM.
 * Final deployed app allows **real-time spam classification** with model comparison.
-
----
-
-
-
-
-
-Would you like me to also include **plots (ROC, Precision-Recall curves)** with screenshots in the README for a more professional GitHub look?
